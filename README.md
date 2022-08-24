@@ -1,6 +1,9 @@
 # Guild Wars 2 - Mouse fix
 AHK script for fixing the issue in Guild Wars 2 with your mouse moving when you're rotating the camera.
 
+# Is it safe?
+I can NOT guarantee that you won't be banned for using this script, so don't blame me if something happens.
+
 # How to use?
 1. Place the script in its own folder.
 2. Create a shortcut to Guild Wars 2's executable file next to the script and name the shortcut "gw2".
