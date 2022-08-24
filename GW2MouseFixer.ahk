@@ -6,6 +6,7 @@ global gameShortcut = A_WorkingDir . "\gw2.lnk"
 global previousMousePositionX := 0
 global previousMousePositionY := 0
 global gameProcessName := "Gw2-64.exe"
+global gameWindowName := "Guild Wars 2"
 
 RunScriptSetup()
 ; sleep just in case. works without it though
@@ -43,7 +44,7 @@ SavePreviousMousePosition()
 
 SetMousePositionToPreviousPosition()
 {
-    IfWinNotActive, Guild Wars 2
+    IfWinNotActive, %gameWindowName%
     {
         return
     }
