@@ -3,6 +3,10 @@ AHK script for fixing the issue in Guild Wars 2 with your mouse moving when you'
 
 # Is it safe?
 I can NOT guarantee that you won't be banned for using this script, so don't blame me if something happens.
+But according to this page https://help.guildwars2.com/hc/en-us/articles/360013762153-Policy-Macros-and-Macro-Use the use of macros is allowed,
+as long as they don't give advantage over other players or automate the gameplay. In this case the macro simply fixes a bug,
+which means it actually makes sure your game is running exactly as intended, thus I doubt it can be considered a bannable macro.
+I still make no promises though :)
 
 # How to use?
 1. Place the script in its own folder.
